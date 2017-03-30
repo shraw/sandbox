@@ -2,4 +2,4 @@
 
 :tada: welcome Alex :tada:
 
-# Johannes is awesome
+# Johannes Nicolai is awesome
