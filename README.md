@@ -5,4 +5,4 @@
 
 # Alex is awesome
 
-# Johannes Nicolai is awesome too
+# Johannes is awesome too
